@@ -8,6 +8,7 @@ def calculate_percentage(total, obtained):
 # Main program
 print("Welcome to ithe percentage calculating calculator program.")
 
+# Handeling user input.
 try:
     total = float(input("Enter the total value:-"))
     obtained = float(input("Enter the obatained value:- "))     
